@@ -1,4 +1,4 @@
-# SkillFactotyDTS_Project1
+# SkillFactotyDST_Project1
 
 ![изображение](https://user-images.githubusercontent.com/86392802/196556843-9b32a05e-0b39-4ed4-becd-e8a7a70754b3.png)
 
